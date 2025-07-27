@@ -12,6 +12,12 @@ A smart, AI-integrated Chrome extension that helps users summarize and analyze s
 - ⚡ **Real-time Integration:** Uses scripting APIs to fetch text, sends to backend, and renders results instantly.
 - 🔐 **Secure & Scalable:** Clean code architecture with clear separation of controller, service, and DTO layers.
 
+## 🧪 Upcoming Features
+
+- 🔗 **Export Notes**: Export saved notes and AI summaries to `.txt` or `.pdf` formats for offline reference.
+- 📧 **Email Integration**: Automatically send research summaries or saved notes to your registered email address.
+
+> Have more feature ideas? Feel free to contribute or raise a feature request!
 ---
 
 ## 🛠️ Tech Stack
