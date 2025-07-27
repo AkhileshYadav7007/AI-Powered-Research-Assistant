@@ -59,9 +59,9 @@ Gemini's AI-generated response is parsed and returned to the extension UI.
 The result is displayed inside the extension panel, with an option to save notes.
 
 🧪 API Example (Gemini)
-bash
+
 Copy
-Edit
+
 curl "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent" \
   -H "Content-Type: application/json" \
   -H "X-goog-api-key: YOUR_GEMINI_API_KEY" \
@@ -86,21 +86,21 @@ Google Gemini API Key
 
 🧩 Setup Instructions
 1. Clone the Repository
-bash
+
 Copy
-Edit
+
 git clone https://github.com/YourUsername/Research-Assistant.git
 2. Run the Spring Boot Server
 bash
 Copy
-Edit
+
 cd backend
 ./mvnw spring-boot:run
 Make sure to set your Gemini API key in application.properties:
 
 properties
 Copy
-Edit
+
 gemini.api.url=https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=
 gemini.api.key=YOUR_GEMINI_API_KEY
 3. Load the Extension in Chrome
@@ -120,16 +120,12 @@ This project is licensed under the MIT License.
 
 🙋‍♂️ Author
 Akhilesh Yadav
-🔗 Portfolio
+🔗 Portfolio  https://akhileshyadav7007.github.io/Akhilesh_Portfolio/
 🐙 GitHub
-💼 LinkedIn
+💼 LinkedIn https://www.linkedin.com/in/akhilesh-yadav-44a496216/
 
 ⭐️ Support
 If you find this project useful, feel free to ⭐ the repo or share it with others!
-
-yaml
-Copy
-Edit
 
 ---
 
